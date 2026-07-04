@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm luoluo.
 
-<!--
-**luoluo10486/luoluo10486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Born 2005-04-26`  `AI learner`
 
-Here are some ideas to get you started:
+- I like AI and VS Code.
+- I'm grateful to live in an open-source world.
+- I'm primarily seeking AI R&D / Full-Stack AI developer internships.
+- I'm happy to contribute to fun projects and ideas, feel free to email me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Blog](https://your-blog.example.com) ·
+[Leetcode](https://leetcode.cn/u/yourname/) ·
+[GitHub](https://github.com/yourname) ·
+[Bilibili](https://space.bilibili.com/your-id) ·
+`Views 1500k+`
+
+Some column directions I study in [X-Plore](https://github.com/yourname) (aka Re:CS), click the repo can view.
+
+> "The mission of learning is to gain an understanding of various designs."
+>
+> "Attempt to achieve any sustainable behavior through automated means."
