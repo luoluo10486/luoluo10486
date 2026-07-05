@@ -6,10 +6,10 @@
   <code>Full-Stack Developer Intern</code>
 </p>
 
-- I like AI and VS Code.
-- I'm grateful to live in an open-source world.
-- I'm primarily seeking AI R&amp;D / Full-Stack AI developer internships.
-- I'm happy to contribute to fun projects and ideas, feel free to email me.
+- I am currently developing FoodMate.
+- FoodMate is not intended to be a regular chatbot.
+- It is a task-oriented intelligent assistant for dining, nutrition, menus, meal prep, food logging, and dietary analysis.
+- Users do not simply ask questions; they describe things they want to get done.
 
 ### :snake: Contribution Snake
 
