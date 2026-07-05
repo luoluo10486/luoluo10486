@@ -6,10 +6,27 @@
   <code>Full-Stack Developer Intern</code>
 </p>
 
-- I am currently developing [FoodMate](https://github.com/luoluo10486/FoodMate-Agent).
-- FoodMate is not intended to be a regular chatbot.
-- It is a task-oriented intelligent assistant for dining, nutrition, menus, meal prep, food logging, and dietary analysis.
-- Users do not simply ask questions; they describe things they want to get done.
+### FoodMate
+
+<p>
+  <a href="https://github.com/luoluo10486/FoodMate-Agent">
+    <img src="https://img.shields.io/badge/FoodMate--Agent-Open%20Source-C98A4A?style=for-the-badge&logo=github&logoColor=white" alt="FoodMate-Agent repository" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-In%20Development-58A6FF?style=for-the-badge" alt="FoodMate status" />
+</p>
+
+FoodMate is not intended to be a regular chatbot. It is a task-oriented intelligent assistant for dining, nutrition, menus, meal prep, food logging, and dietary analysis.
+
+Users do not simply ask questions; they describe things they want to get done.
+
+<p>
+  <code>Dining</code>
+  <code>Nutrition</code>
+  <code>Menus</code>
+  <code>Meal Prep</code>
+  <code>Food Logging</code>
+  <code>Dietary Analysis</code>
+</p>
 
 ### :snake: Contribution Snake
 
