@@ -1,6 +1,4 @@
-# Hi, I'm luoluo.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&duration=2600&pause=1200&color=C98A4A&center=false&vCenter=true&random=false&width=520&lines=AI+learner+%2F+full-stack+builder.;Open-source+world%2C+open-ended+ideas.;Learning+by+building+small+useful+things." alt="Typing subtitle" />
+# Hi, I am luoluo.
 
 <p>
   <code>Born 2005-04-26</code>
