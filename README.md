@@ -1,11 +1,12 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&duration=2600&pause=1000&color=C98A4A&center=false&vCenter=true&random=false&width=440&lines=Hi%2C+I'm+luoluo.;AI+learner+%2F+full-stack+builder.;Open-source+world%2C+open-ended+ideas." alt="Typing introduction" />
-  <p>
-    <code>Born 2005-04-26</code>
-    <code>AI learner</code>
-    <code>Seeking AI R&amp;D / Full-Stack AI internships</code>
-  </p>
-</div>
+# Hi, I'm luoluo.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&duration=2600&pause=1200&color=C98A4A&center=false&vCenter=true&random=false&width=520&lines=AI+learner+%2F+full-stack+builder.;Open-source+world%2C+open-ended+ideas.;Learning+by+building+small+useful+things." alt="Typing subtitle" />
+
+<p>
+  <code>Born 2005-04-26</code>
+  <code>AI learner</code>
+  <code>Seeking AI R&amp;D / Full-Stack AI internships</code>
+</p>
 
 - I like AI and VS Code.
 - I'm grateful to live in an open-source world.
@@ -27,11 +28,3 @@ Some column directions I study in [X-Plore](https://github.com/yourname) (aka Re
 > "The mission of learning is to gain an understanding of various designs."
 >
 > "Attempt to achieve any sustainable behavior through automated means."
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luoluo10486/luoluo10486/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luoluo10486/luoluo10486/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/luoluo10486/luoluo10486/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
