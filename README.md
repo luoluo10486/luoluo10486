@@ -3,7 +3,7 @@
 <p>
   <code>Born 2005-04-26</code>
   <code>AI learner</code>
-  <code>Seeking AI R&amp;D / Full-Stack AI internships</code>
+  <code>Seeking  / Full-Stack AI internships</code>
 </p>
 
 - I like AI and VS Code.
