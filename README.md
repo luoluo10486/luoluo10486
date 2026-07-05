@@ -6,7 +6,7 @@
   <code>Full-Stack Developer Intern</code>
 </p>
 
-- I am currently developing FoodMate.
+- I am currently developing [FoodMate](https://github.com/luoluo10486/FoodMate-Agent).
 - FoodMate is not intended to be a regular chatbot.
 - It is a task-oriented intelligent assistant for dining, nutrition, menus, meal prep, food logging, and dietary analysis.
 - Users do not simply ask questions; they describe things they want to get done.
