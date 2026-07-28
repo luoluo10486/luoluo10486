@@ -11,6 +11,8 @@
 - It is a task-oriented intelligent assistant for dining, nutrition, menus, meal prep, food logging, and dietary analysis.
 - Users do not simply ask questions; they describe things they want to get done.
 
+> **No matter how far you've come, there's always another level to reach.**
+
 ### :snake: Contribution Snake
 
 <picture>
